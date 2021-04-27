@@ -1,0 +1,8 @@
+ACTION: Executes: Tasklist /v                                       	PERSON: Admin	IMPACT: Benign	YOUR GUESS: Benign	T/F True
+ACTION: Exfiltrate over bluetooth                                   	PERSON: Anyone	IMPACT: Very Suspicious	YOUR GUESS: Very Suspicious	T/F True
+ACTION: Executes: Net localgroup/user/group                         	PERSON: Worker	IMPACT: Suspicious	YOUR GUESS: Suspicious	T/F True
+ACTION: Needs Software patch notes via email                        	PERSON: Anyone	IMPACT: Benign	YOUR GUESS: Benign	T/F True
+ACTION: File deletion                                               	PERSON: Worker	IMPACT: Suspicious	YOUR GUESS: Suspicious	T/F True
+
+SCORING:
+SCORE: 1500.0	PERCENT CORRECT: 100.0
